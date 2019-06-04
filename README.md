@@ -1,5 +1,4 @@
 # Bootstrap-Portfolio
-<h1>Bootstrap-Portfolio</h1>
 
 A basic portfolio, but built using bootstrap's css framework.
 
@@ -8,4 +7,4 @@ Using bootstrap is significantly faster than using my own css, at least at my cu
 In conclusion, Bootstrap has its benefits, but it is no substitution for a basic understanding of html and css, particularly floats and flex.
 
 <h2>Link to depoloyed GitHub</h2>
-<a href="https://edwardmara.github.io/Responsive-Portfolio/"> edwardmara.github.io</a>
+<a href="https://edwardmara.github.io/Bootstrap-Portfolio/"> edwardmara.github.io</a>
